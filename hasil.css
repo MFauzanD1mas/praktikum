@@ -1,0 +1,17 @@
+*{
+    color: aliceblue;
+}
+body{
+    background-color: #000000;
+}
+h1{
+    text-align: center;
+}
+
+.bungkus {
+    width: 60%;
+    margin: 30px auto;
+    background-color: #212529;
+    padding: 20px;
+    border-radius: 20px;
+}
