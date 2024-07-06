@@ -14,7 +14,6 @@
     <div class="bungkus2">
       <h2 style="text-align: center;">Ini Struk Belanjamu Ya</h2>
       <?php
-      session_start();
 
       if (isset($_SESSION["nama"]) && isset($_SESSION["notelp"]) && isset($_SESSION["alamat"])) {
         $nama = $_SESSION["nama"];
